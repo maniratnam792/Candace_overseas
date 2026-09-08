@@ -45,7 +45,7 @@ document.getElementById('leadForm')?.addEventListener('submit', e => {
 💬 Message: ${message || 'No message provided'}`;
 
   // WhatsApp number
-  const whatsappNumber = '918247269582';
+  const whatsappNumber = '8886555094';
 
   // Create WhatsApp URL
   const whatsappURL =
